@@ -5,7 +5,8 @@ pip install -r requirements.txt
 python flpy_brd.py
 
 # CONTROLS
-Space bar - that's it, it will make the brd jump
+Enter/return key - to start/restart the game, i.e., use it in the score screen
+Space bar - during the game makes the brd jump
 
 # MORE INFO
 Survive as long as possible, don't collide with the clmns and don't leave the game window,
